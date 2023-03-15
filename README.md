@@ -11,6 +11,11 @@ $ npm install
 ```
 $ npm run start
 ```
+### Checkout app on browser
+```
+http://localhost:8080
+```
+
 # Run app using docker 
 ### Pull the docker Image
 ```
@@ -24,4 +29,7 @@ $ docker images
 ```
 $ docker run -p 8080:8080 <image_id>
 ```
-
+### Checkout app on browser
+```
+http://localhost:8080
+```
